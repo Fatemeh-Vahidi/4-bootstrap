@@ -1,0 +1,101 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.main1{
+    background-color: #5FDAD0;
+    width:100%;
+    height: 120px;
+    margin:auto;
+}
+.main-top{
+    background-color:  #5FDAD0;
+    width:100%;
+    height: 60px;
+    margin:auto;
+    
+    
+}
+.menu{
+    background-color: white;
+    width:100%;
+    height: 60px;
+    margin:auto;
+    
+    
+}
+.u-menu{
+    text-decoration: none;
+    float:right;
+    height: 60px;
+    list-style: none;
+    font-family: tahoma;
+    padding:18px;
+    text-align: right;
+}
+.logo{
+    float:left;
+    width:60px;
+    height: 60px;
+    background-image: url("../img/logo.png");
+    background-size: cover;
+}
+.main2-img1{
+    background-image: url("../img/creative-home-decor-ideas.jpg");
+    background-size: cover; 
+    height:400px;
+    margin-right:0px;
+}
+.main2-img2{
+    background-image: url("../img/home-interior-design-ideas.jpg");
+    background-size: cover; 
+    height:400px;
+  
+}
+.main2-img3{
+    background-image: url("../img/kitchen-decor-and-decorating-ideas-for-your-home.jpg");
+    background-size: cover; 
+    height:400px;
+}
+.main2-img4{
+    background-image: url("../img/kitchen-decor-ideas-with-minimalistic-kitchen.jpg");
+    background-size: cover; 
+    height:400px;
+}
+.main2-img5{
+    background-image: url("../img/small-kitchen-decor-with-indie-kitchen.jpg");
+    background-size: cover; 
+    height:400px;
+}
+.main2-img6{
+    background-image: url("../img/living-room-decoration-720x533.jpg");
+    background-size: cover; 
+    height:400px;
+   
+}
+.main2{
+    width:100%;
+   
+    margin:auto;
+}
+.main3{
+    background-color: #5FDAD0;
+    width:100%;
+    height: 480px;
+    margin:auto;
+}
+.main3-into{
+    margin-top: 10px;
+    background-color:white;
+    width:75%;
+    height: 450px;
+    border-radius:40px;
+    margin:auto;
+    font-family: tahoma;
+    text-align: right;
+    font: 12px;
+    
+}
+
+
+
